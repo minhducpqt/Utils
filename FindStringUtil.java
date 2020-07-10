@@ -1,5 +1,3 @@
-package tripi.vn;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.Year;
